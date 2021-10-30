@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# vscode files
+.vscode
+
+# DEM data TIFF files
+*.zip
+*.tif
+
+# md5 checksum files
+*.md5
