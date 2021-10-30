@@ -134,6 +134,7 @@ dmypy.json
 # DEM data TIFF files
 *.zip
 *.tif
+*.nc
 
 # md5 checksum files
 *.md5

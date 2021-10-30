@@ -1,4 +1,4 @@
-DEM_DIR="ftp.kortforsyningen.dk/dhm_danmarks_hoejdemodel/DTM/"
+DEM_DIR="./" #"ftp.kortforsyningen.dk/dhm_danmarks_hoejdemodel/DTM/"
 # Unzip all files in local FTP folder.
 unzip $DEM_DIR'*.zip'
 
